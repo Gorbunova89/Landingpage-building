@@ -137,4 +137,8 @@ body {
     .card {
         margin-bottom: 30px;
     }
+
+    .about-text {
+        padding-top: 50px;
+    }
 }
