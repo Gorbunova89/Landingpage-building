@@ -14,7 +14,7 @@
 ### Для создания данной страницы были использованы следующие линки:
 * [stylesheet bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/) подключаем в `head`
 * [Google fonts](https://fonts.google.com/specimen/Montserrat) подключаем в `head`
-* [Icons](<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">) подключаем в `head`
+* [Icons](https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css>) подключаем в `head`
 * [Script](https://getbootstrap.com/docs/5.2/getting-started/introduction/) подключаем в `body`
 ### Детали
 1. Выделение части слова желтым цветом в название бренда `navbar-brand` было сделано с помощью команды `span`  и класса `text-warning` в html
