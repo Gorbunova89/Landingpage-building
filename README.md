@@ -28,7 +28,7 @@ carousel-inner::before background: rgba(0, 0, 0, 0.7);
 в css
 <img src="readme/Снимок2.JPG" width="500"> 
 3. Иконочный шрифт вставляем из самого bootstrap, переходим во кладку **Icons**, спускаемся в с самый низ, копируем `link` в графе **CDN**, вставляем в `head`, используем код с тэгом `i`
-<img src="readme/Снимок3.JPG" width="200"> <img src="readme/Снимок4.JPG" width="150">
+<img src="readme/Снимок3.JPG" width="300"> <img src="readme/Снимок4.JPG" width="250">
 4. Круглые фото создаем с помощью класса `rounded-circle` в html
 ```css
  <img src="img/team-4.jpg" alt="" class="img-fluid rounded-circle">
